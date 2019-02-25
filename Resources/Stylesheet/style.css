@@ -2,3 +2,39 @@
   padding:0;
   margin:0;
 }
+
+/* General */
+
+body {
+  font-family:Helvetica;
+  font-size:22px;
+  color:Seashell;
+  background-color:black;
+  opacity:0.9;
+  text-align:center;
+}
+
+/* Header */
+
+header {
+  height:69px;
+  width:100%;
+  border-bottom:1px solid seashell;
+  position:fixed;
+  z-index:1;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding-left:10px;
+}
+
+nav ul li,
+nav ul li a {
+  list-style-type:none;
+  color:Seashell;
+  display:inline;
+}
+
+nav ul li a {
+  margin-right:20px;
+}
