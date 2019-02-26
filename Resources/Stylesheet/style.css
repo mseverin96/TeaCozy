@@ -22,6 +22,13 @@ main {
   top:70px;
 }
 
+footer {
+  text-align:left;
+  position:relative;
+  top:70px;
+  padding: 40px 20px;
+}
+
 /* Header */
 
 header {
