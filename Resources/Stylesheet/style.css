@@ -140,6 +140,11 @@ nav ul li a {
   margin:0 20px;
 }
 
+.locations-h2 {
+  position:relative;
+  top:150px;
+}
+
 /* Contact */
 
 .contact {
